@@ -1,1 +1,1 @@
-Começando projeto no GIT
+Aula até 49:00 
